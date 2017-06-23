@@ -1,0 +1,35 @@
+body{font:normal 15px/1.5 Arial, Helvetica, Free Sans, sans-serif;color: #222;background:url(../img/pattern.png);overflow-y:scroll;padding:60px 0 0 0;}
+.input_class {  /*设置class属性名称为input_class的标签内容*/
+	width:200px;
+	height:16px;
+	margin-left:20px;
+	border:1px solid #000;
+	border-radius:4px;
+}
+a{text-decoration:none;color:#000;}
+h1{text-align: center;color: #368A55;font-size: 36px;}
+caption{        /*设置caption标签内容*/
+	font-size:30px;
+	color:red;
+	text-shadow: yellow 6px 0px 5px; 
+	font-stretch: wider;
+	font-weight: 900; 
+}
+.operation_btn{
+	position:absolute;
+	margin-left:50%;
+	left:-55px;
+	margin-top:20px;
+}
+table{margin-left:30%;background-color: #D2D2D2;}
+.btn{          /*设置class属性名称为aaa的标签内容*/
+	width:55px;height:30px;font-size:1em;font-weight: bolder;border:1px solid #000;border-radius:3px;background-color:#fff;
+}
+#role{
+	margin-left:20px;
+	height:24px;
+}
+span{
+	margin-left:8px;
+	font-size:12px;
+}
